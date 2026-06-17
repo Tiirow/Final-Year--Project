@@ -4,7 +4,9 @@
 #Development Environment:
 
 #•Backend: Node.js, Express
+
 •Database: MongoDB Atlas (cloud)
 
 #•Frontend (Web): React
+
 •Mobile: Flutter
